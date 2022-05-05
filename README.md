@@ -44,7 +44,6 @@ The biggest difference in performance between the model trained with the texts a
 There are only two cases in which the F<sub>1</sub> metric applied to the KGE data is the same or worsens with respect to that obtained in the text data, in Category III in the CamemBERT and TweetBERT models.
 
 
-## How to replicate experiments?
 
 
 
