@@ -1,5 +1,5 @@
-# Combining-Knowledge-Graphs-and-Deep-Learning-for-categorizing-Tweets
-Combining Knowledge Graphs and Deep Learning for categorizing Tweets
+# What Can Tweets and Knowledge Graphs Tell Us About Eating Disorders?
+What Can Tweets and Knowledge Graphs Tell Us About Eating Disorders?
 
 ## Table of contents
 
