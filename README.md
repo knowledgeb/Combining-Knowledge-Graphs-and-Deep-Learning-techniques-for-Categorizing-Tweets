@@ -17,11 +17,11 @@ Combining Knowledge Graphs and Deep Learning for categorizing Tweets
 
 Our hypothesis is based on the assumption that making use of semantic information obtained through the exploitation of knowledge graphs improves the prediction of machine learning and deep learning models in text classification.
 
-<img src="https://jabenitez.com/kge/motivating-example.png" width="700px" />
+<img src="https://jabenitez.com/kge/motivating-example-v2.png" width="800px" />
 
 Starting from a set of textual data, it is possible to obtain the entities contained in them (thanks to FALCON 2.0 tool [[1]](https://doi.org/10.1145/3340531.3412777) the identifier of these entities in Wikidata and the corresponding embeddings using RDF2Vec).
 
-<img src="https://jabenitez.com/kge/architecture.png" width="700px" />
+<img src="https://jabenitez.com/kge/architecture.png" width="800px" />
 
 In this research is presented the accession of semantic data enrichment obtained by knowledge graphs exploitation (KGE) to a set of texts on Eating Disorders (EDs) to obtain text classification models by applying machine learning and deep learning techniques. We make use of a proprietary dataset composed of 2,000 texts obtained from Twitter related to EDs. 
 
@@ -31,7 +31,7 @@ Subsequently, a manual labelling of the data into 4 different binary categories 
 
 ## Results
 
-<img src="https://jabenitez.com/kge/results.png" width="600px" />
+<img src="https://jabenitez.com/kge/results-v2.png" width="800px" />
 
 Results obtained in the 10 different models applied to the textual data and to the data with knowledge graph exploitation (KGE) in the 4 labelled categories.
 
